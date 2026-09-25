@@ -1,0 +1,30 @@
+.item1{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    
+}
+.item2{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.container{
+    background-image:url('./beach.avif');
+    background-size: cover;
+    height: 100vh;
+}
+.heading{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+.card{
+    margin:20px;
+    background-color: lightgray;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
